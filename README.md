@@ -32,7 +32,7 @@ Here are some of my key projects:
 
 - **Quiz Game**: Brief description of the project.
   - [GitHub Repository](https://github.com/Jayanth-Kotni/Quiz-Game-App)
-  - [Live Demo](https://your-live-demo-url.com)
+  - [Live Demo](https://reactquizpro.ccbp.tech/login)
 
 Feel free to check out my repositories for more projects and contributions!
 
