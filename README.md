@@ -21,7 +21,7 @@ I am a Computer Science Engineering graduate with a passion for full-stack devel
 ### 📫 Contact Me
 - **Email**: [kotnijayanth326@gmail.com](mailto:kotnijayanth326@gmail.com)
 - **LinkedIn**: [Jayanth Kotni](https://www.linkedin.com/in/jayanth-kotni-812314201/)
-- **Portfolio**: [Jayanth](jayanth.in)
+- **Portfolio**: [Jayanth](jayanthk.netlify.app)
 
 ### 🛠️ Projects
 Here are some of my key projects:
